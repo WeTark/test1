@@ -2,7 +2,7 @@
 function Hello() {
     return (
         <div>
-            hello1
+            hello12
         </div>
     );
   }
